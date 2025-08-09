@@ -31,7 +31,7 @@ It listens to your voice, processes commands, and performs actions like opening 
 1. Clone the repository:
    ```bash
    git clone https://github.com/pranjal7781/voice-assistant-.git
-   cd nexa-voice-assistant
+   cd voice-assistant
    
 -Install dependencies<br>
 pip install speechrecognition pyttsx3 wikipedia <br>
